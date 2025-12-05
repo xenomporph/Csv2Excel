@@ -1,8 +1,3 @@
-# Csv2Excel
-Anladım. İstenen kodun ve açıklamanın İngilizce versiyonunu, ikon ve kalın font kullanmadan, düz metin olarak sunuyorum.
-
------
-
 # CSV to Excel Converter (Google Colab Compatible)
 
 This Python script is designed to upload a CSV file and convert it into an Excel (.xlsx) file, specifically utilizing the file handling capabilities of the Google Colab environment.
